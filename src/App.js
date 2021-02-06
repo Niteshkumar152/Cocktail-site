@@ -25,6 +25,7 @@ function App() {
           <Error />
         </Route>
       </Switch>
+      <footer>Copyright: 2021 </footer>
     </Router>
   );
 }
