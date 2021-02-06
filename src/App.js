@@ -25,7 +25,9 @@ function App() {
           <Error />
         </Route>
       </Switch>
-      <footer>Copyright: 2021 </footer>
+      <div style={{ textAlign: "center", marginBottom: "40px" }}>
+        <footer style={{ color: "blue" }}>Copyright: 2021 </footer>
+      </div>
     </Router>
   );
 }
